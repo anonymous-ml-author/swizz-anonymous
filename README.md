@@ -1,15 +1,15 @@
 # 📄📊 Swizz
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Docs](https://img.shields.io/badge/docs-available-blue)](https://anonymous-ml-author.github.io/swizz/)
+[![Docs](https://img.shields.io/badge/docs-available-blue)](https://anonymous-ml-author.github.io/swizz-anonymous/)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
-[![Built for Papers](https://img.shields.io/badge/built%20for-AI%20papers-ff69b4)](https://anonymous-ml-author.github.io/swizz/)
+[![Built for Papers](https://img.shields.io/badge/built%20for-AI%20papers-ff69b4)](https://anonymous-ml-author.github.io/swizz-anonymous/)
 
 
 ![Logo](https://drive.usercontent.google.com/download?id=1q5wLiKynM4l-gRIbCLi40KXRS2FJhplM)
 
 **Swizz** is a Python library for generating **publication-ready visualizations**, **LaTeX tables**, and **subfigure layouts** with minimal code and consistent style.
-[**Check out the live docs**](https://anonymous-ml-author.github.io/swizz/) for examples and usage.
+[**Check out the live docs**](https://anonymous-ml-author.github.io/swizz-anonymous/) for examples and usage.
 
 Built for AI/ML researchers, it's designed to make NeurIPS/ICLR/CVPR-style figures effortless — no more LaTeX hacks and style mismatches. Focus on your results, not your rendering.
 

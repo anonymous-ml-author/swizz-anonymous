@@ -1,6 +1,6 @@
 # 📄 Welcome to **Swizz**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/anonymous-ml-author/swizz) [![Version](https://img.shields.io/badge/version-0.1.0-orange)](https://github.com/anonymous-ml-author/swizz/releases) [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/) [![Built for Papers](https://img.shields.io/badge/built%20for-AI%20papers-ff69b4)](https://github.com/anonymous-ml-author/swizz)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/anonymous-ml-author/swizz-anonymous) [![Version](https://img.shields.io/badge/version-0.1.0-orange)](https://github.com/anonymous-ml-author/swizz-anonymous/releases) [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/) [![Built for Papers](https://img.shields.io/badge/built%20for-AI%20papers-ff69b4)](https://github.com/anonymous-ml-author/swizz-anonymous)
 
 ---
 
@@ -10,7 +10,7 @@ layouts** — with minimal code and consistent style.
 It’s built for AI/ML researchers targeting NeurIPS, ICLR, CVPR, ICML and beyond — where *presentation matters*, and time
 is tight. No more LaTeX hacks, manually resizing plots, or formatting inconsistencies. Just clean results, fast.
 
-Head over to the [**GitHub repository**](https://github.com/anonymous-ml-author/swizz) to get started, explore the code, or contribute!
+Head over to the [**GitHub repository**](https://github.com/anonymous-ml-author/swizz-anonymous) to get started, explore the code, or contribute!
 
 ---
 

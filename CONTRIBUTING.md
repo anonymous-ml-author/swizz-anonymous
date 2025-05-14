@@ -23,7 +23,7 @@ Whether you're fixing a bug, adding a table format, improving docs, or building 
 ### 1. Clone the repo
 
 ```bash
-git clone git@github.com:XXX/swizz.git
+git clone git@github.com:anonymous-ml-author/swizz-anonymous.git
 cd swizz
 ```
 
